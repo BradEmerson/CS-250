@@ -15,11 +15,11 @@ Customer: "I would like the results sorted by past vacation results as a priorit
 The Product Owner has now gathered unspecific, subjective information, and translated it into useful objective information that can be used to build a product for the customer.
 
 
-How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
+**How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?**
 
 I would approach developing programs by focusing all effort into developing a program that will behave in a manner consistent with customer expectations.  A for the second portion of this question,
 it is extremely open-ended, so I would have to say most likely **all** agile processes, since I'm at the very beginning of my Software Engineering career.  I figure that it's best to keep an open mind.
 
-What does it mean to be a good team member in software development?
+**What does it mean to be a good team member in software development?**
 
 Being a "good" team member in software development, or in any setting for that matter- would focus on the open sharing of information (with exception of course to classified or otherwise sensitive information that should remain safeguarded) between team members.  No one should gatekeep information for their own personal financial gain or leverage within an organization, as effective organizations are built on the bettering of the entire organization/team to result in the success of the team as a whole.  If the team as a whole fails, the individual fails.  This is a very broad example that is most likely unrealistic, but to give an example of the principle I'm speaking of- suppose a team member was extremely well versed in coding Python, but they struggled a bit with Java.  Suppose another team member who waas fairly proficient in Java had to work on a project that was to be coded in Python.  The first team member should not withhold information that could potentially help the latter team member in completing his/her potion of the overall sprint, even though keeping that information private may make them "more valuable" to the company in their own eyes, they're actually less valuable, as they're squandering their knowledge, and purposefully slowing down the project as a whole.
